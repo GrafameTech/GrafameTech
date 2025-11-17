@@ -73,7 +73,7 @@ A world where technology empowers creativity, enhances business processes, and u
 
 ---
 
-# 🛠️ Tech Stack (Organized & Enhanced)
+# 🛠️ Tech Stack
 
 ### 💻 **Frontend**
 <p>
