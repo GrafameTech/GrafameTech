@@ -1,21 +1,27 @@
-# 🌐 GrafameTech — Innovating the Future of Digital Solutions
+<!-- 🌐 HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00AEEF&center=true&vCenter=true&width=650&lines=GrafameTech+—+Innovating+Digital+Solutions;Building+the+Future,+One+Commit+at+a+Time;Empowering+Developers+Worldwide" />
+</p>
+
+---
+
+# 🌐 GrafameTech — Innovating the Future of Digital Solutions  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Organization-GrafameTech-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Founded_By-Cliphton_Onyango-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Founder-Cliphton_Onyango-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Lead_Developer-Graham-orange?style=for-the-badge"/>
   <br/>
-  <img src="https://img.shields.io/github/followers/GrafameTech?style=for-the-badge&logo=github&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/GrafameTech?style=for-the-badge&logo=github&label=Stars"/>
-  <br/>
   <img src="https://img.shields.io/badge/Status-Active_Since_2024-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-10+_Repositories-red?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00AEEF&height=80&section=footer"/>
 </p>
 
 ---
 
 # 🚀 About GrafameTech
-GrafameTech is a modern, technology-driven organization committed to creating powerful, scalable, and transformative digital products. We combine engineering excellence, innovative research, and creative design to build tools and platforms that empower users and developers globally.
+GrafameTech is a modern, technology-driven organization committed to creating powerful, scalable, and transformative digital products.  
+We merge *engineering excellence*, *creative design*, and *research-driven innovation* to build future-ready digital systems.
 
 ✨ *Building the future. One commit at a time.*
 
@@ -23,20 +29,32 @@ GrafameTech is a modern, technology-driven organization committed to creating po
 
 # 💡 Mission & Vision
 
-### 🎯 Mission
+### 🎯 Mission  
 To create next-generation digital tools and platforms powered by innovation, open-source collaboration, and world-class software engineering.
 
-### 👁️ Vision
+### 👁️ Vision  
 A world where technology empowers creativity, enhances business processes, and uplifts communities.
+
+---
+
+# 🏢 Organization Branding
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Values-Innovation_|_Quality_|_Impact-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Philosophy-Open_Source_First-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI_|_Automation_|_Scalability-purple?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNuNjZ0NHk5dzJtZm9kaXNqZ2Q4M2F5dmw4NjducWs5ZWYzbXpjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300">
+</p>
 
 ---
 
 # 👥 Core Team
 
-### 🧑‍💼 Founder — Cliphton Onyango
+## 🧑‍💼 Founder — Cliphton Onyango
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117511574?v=4" width="120" style="border-radius:50%"/>
-  <br/>
+  <img src="https://avatars.githubusercontent.com/u/117511574?v=4" width="130" style="border-radius:50%; box-shadow:0 0 12px #00AEEF;"/>
+  <br/><br/>
   <a href="https://github.com/cliphton2493">
     <img src="https://img.shields.io/badge/cliphton2493-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -44,10 +62,10 @@ A world where technology empowers creativity, enhances business processes, and u
 
 ---
 
-### 👨‍💻 Lead Developer — Graham
+## 👨‍💻 Lead Developer — Graham
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/67480452?v=4" width="120" style="border-radius:50%"/>
-  <br/>
+  <img src="https://avatars.githubusercontent.com/u/67480452?v=4" width="130" style="border-radius:50%; box-shadow:0 0 12px #FF8800;"/>
+  <br/><br/>
   <a href="https://github.com/graham218">
     <img src="https://img.shields.io/badge/graham218-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -55,80 +73,46 @@ A world where technology empowers creativity, enhances business processes, and u
 
 ---
 
-# 🧾 GitHub Stats
-> ⚠️ Some statistics (exact commit numbers, organization contributions) require GitHub API access. Publicly viewable stat cards are included below.
+# 🛠️ Tech Stack (Organized & Enhanced)
 
-## 📊 Organization Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GrafameTech&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrafameTech&theme=radical" />
+### 💻 **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
 </p>
 
----
-
-## 🧑‍💼 Founder – Cliphton Onyango
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cliphton2493&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cliphton2493&theme=tokyonight" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=cliphton2493&limit=5&theme=tokyonight" />
+### 🧩 **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,go,java,python" />
 </p>
 
----
-
-## 👨‍💻 Lead Developer – Graham
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graham218&show_icons=true&theme=highcontrast" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graham218&theme=highcontrast" />
-  <br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=graham218&limit=5&theme=highcontrast" />
+### 📱 **Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" />
 </p>
 
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,flutter,dart,firebase,mongodb,postgres,express,redis,docker,linux,git,github,tailwind,nginx,graphql,supabase,cloudflare,aws,gcp,kubernetes,python,java,go&perline=10"/>
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,redis,supabase" />
 </p>
 
----
+### ⚙️ **DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare,aws,gcp,linux" />
+</p>
 
-# 🏗️ Featured Projects
-
-## 🔹 Project A — Backend Infrastructure Engine
-A high-performance backend system for large-scale applications.
-
-**Repo Card:**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GrafameTech&repo=project-a&theme=radical)]()
-
----
-
-## 🔹 Project B — Developer Automation Toolkit
-A rich toolkit for automating workflows, linting, scaffolding, and deployments.
-
-**Repo Card:**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GrafameTech&repo=project-b&theme=tokyonight)]()
-
----
-
-## 🔹 Project C — Community Web Platform
-A modern, responsive web platform built using React + TypeScript + TailwindCSS.
-
-**Repo Card:**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GrafameTech&repo=project-c&theme=highcontrast)]()
+### 🧪 **Tools & Workflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 # 🧩 Organization Features
-- 🌍 **Open Source First** — Community-driven innovation
-- 🏗️ **Enterprise Architecture** — Performance, scalability & security
-- 🧠 **AI-Powered Development**
-- 🔒 **Security-Focused Systems**
-- 🔄 **CI/CD & Automation**
+- 🌍 **Open Source First** — Community-driven innovation  
+- 🏗️ **Enterprise Architecture** — Built for scale  
+- 🤖 **AI-powered development workflows**  
+- 🔒 **Security-focused engineering**  
+- 🔄 **Full CI/CD automation**  
 - 📦 **Modular, modern development workflows**
 
 ---
@@ -136,11 +120,11 @@ A modern, responsive web platform built using React + TypeScript + TailwindCSS.
 # 🤝 Contributing
 We welcome developers, creators, and innovators!
 
-1. Fork a repo
-2. Create a new branch
-3. Commit changes
-4. Submit a pull request
-5. Our maintainers will review it
+1. Fork a repo  
+2. Create a new branch  
+3. Commit changes  
+4. Submit a pull request  
+5. Our maintainers will review it  
 
 <p align="center">
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge"/>
@@ -162,5 +146,8 @@ Most projects are licensed under the **MIT License**, unless otherwise specified
 
 ---
 
-# 🎉 Thank You for Being Part of GrafameTech
-> *We build. We innovate. We transform.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00AEEF&height=120&section=footer"/>
+  <br/>
+  <b>🎉 Thank You for Being Part of GrafameTech — We Build. We Innovate. We Transform.</b>
+</p>
