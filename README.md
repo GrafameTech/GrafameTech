@@ -53,7 +53,7 @@ A world where technology empowers creativity, enhances business processes, and u
 
 ## 🧑‍💼 Founder — Cliphton Onyango
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117511574?v=4" width="130" style="border-radius:50%; box-shadow:0 0 12px #00AEEF;"/>
+  <img src="https://github.com/cliphton2493.png" width="130" style="border-radius:50%; box-shadow:0 0 12px #00AEEF;"/>
   <br/><br/>
   <a href="https://github.com/cliphton2493">
     <img src="https://img.shields.io/badge/cliphton2493-181717?style=for-the-badge&logo=github"/>
