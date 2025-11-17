@@ -64,7 +64,7 @@ A world where technology empowers creativity, enhances business processes, and u
 
 ## 👨‍💻 Lead Developer — Graham
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/67480452?v=4" width="130" style="border-radius:50%; box-shadow:0 0 12px #FF8800;"/>
+  <img src="https://github.com/graham218.png" width="130" style="border-radius:50%; box-shadow:0 0 12px #FF8800;"/>
   <br/><br/>
   <a href="https://github.com/graham218">
     <img src="https://img.shields.io/badge/graham218-181717?style=for-the-badge&logo=github"/>
